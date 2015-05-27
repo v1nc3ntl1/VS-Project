@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Configuration;
 using System.Linq;
 using System.Web;
@@ -42,6 +43,14 @@ namespace MvcApplication1.Models
         {
             get { return _taxTotal; }
             set { _taxTotal = value; }
+        }
+
+        private Collection<ShoppingCartLineItem> _lineItems;
+
+        public Collection<ShoppingCartLineItem> LineItems
+        {
+            get { return _lineItems; }
+            set { _lineItems = value; }
         }
     }
 }
