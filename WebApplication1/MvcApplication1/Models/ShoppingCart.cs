@@ -45,6 +45,15 @@ namespace MvcApplication1.Models
             set { _taxTotal = value; }
         }
 
+        private int _volumeId;
+
+        public int VolumeId
+        {
+            get { return _volumeId; }
+            set { _volumeId = value; }
+        }
+        
+
         private Collection<ShoppingCartLineItem> _lineItems;
 
         public Collection<ShoppingCartLineItem> LineItems
