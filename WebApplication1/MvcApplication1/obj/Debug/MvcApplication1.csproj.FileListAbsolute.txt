@@ -27,8 +27,14 @@ C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\S
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\WebGrease.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\WebMatrix.Data.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\WebMatrix.WebData.dll
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\EntityFramework.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\System.Web.Helpers.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\System.Web.Mvc.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\System.Web.Razor.xml
@@ -38,12 +44,6 @@ C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\S
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\WebMatrix.Data.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Microsoft.Web.WebPages.OAuth.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\WebMatrix.WebData.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.Core.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\System.Web.Http.OData.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Microsoft.Data.Edm.xml
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Microsoft.Data.OData.xml
@@ -77,4 +77,3 @@ C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\z
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
-C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
