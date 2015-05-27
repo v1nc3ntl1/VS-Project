@@ -45,6 +45,15 @@ namespace MvcApplication1.Models
             set { _taxTotal = value; }
         }
 
+        private int _createdUserId;
+
+        public int CreatedUserId
+        {
+            get { return _createdUserId; }
+            set { _createdUserId = value; }
+        }
+        
+
         private int _volumeId;
 
         public int VolumeId
