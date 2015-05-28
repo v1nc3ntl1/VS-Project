@@ -22,9 +22,9 @@ namespace MvcApplication1.Models
             set { _quantity = value; }
         }
 
-        private int _id;
+        private string _id;
 
-        public int Id
+        public string Id
         {
             get { return _id; }
             set { _id = value; }

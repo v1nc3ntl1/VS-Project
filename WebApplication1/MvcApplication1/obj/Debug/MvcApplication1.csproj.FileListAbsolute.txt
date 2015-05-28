@@ -77,4 +77,7 @@ C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\z
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Glimpse.AspNet.dll
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Glimpse.Core.dll
+C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\bin\Glimpse.Mvc4.dll
 C:\Users\lmh\Documents\Personal\VS Project\WebApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
